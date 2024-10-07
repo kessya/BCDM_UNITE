@@ -24,7 +24,7 @@ Additional fields that could potentially be added to the mapping table include s
 A list of UNITE fields, along with their data types and formats, can be found in the field_definitions.tsv ([link](field_definitions.tsv)).
 
 ## Public downloads
-Versioned releases of UNITE data in BCDM-compliant format are available for download on the [UNITE Resources page](https://unite.ut.ee/repository.php). The latest release can be found at [https://dx.doi.org/10.15156/BIO/doi_id](https://dx.doi.org/10.15156/BIO/doi_id).
+Versioned releases of UNITE data in BCDM-compliant format are available for download on the [UNITE Resources page](https://unite.ut.ee/repository.php). The latest release can be found at [https://dx.doi.org/10.15156/BIO/3301224](https://dx.doi.org/10.15156/BIO/3301224).
 
 ## Generating BCDM-formatted output for UNITE (for internal use)
 ```console
